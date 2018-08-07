@@ -1,8 +1,9 @@
-# A 90 second timer. With a stop, start, and reset button.
+# What is this?
 
-## Go [here](http://cloudy-nick-timer.s3-website-us-west-2.amazonaws.com/) for a demo.
+It's a 90 second timer. With a start, stop, and reset button.
 
-### The timer looks like this.
-![uh oh ... image failed to load](https://github.com/cloudy-nick/timer/blob/master/examples/90.png)
+![oops](https://github.com/cloudy-nick/timer/blob/master/examples/90.png)
 
-### For issues, don't talk to me. I really don't care.
+# Demo?
+
+Sure...[clicky](http://cloudy-nick-timer.s3-website-us-west-2.amazonaws.com/)
